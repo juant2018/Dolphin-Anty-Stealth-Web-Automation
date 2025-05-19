@@ -97,3 +97,8 @@ This project delivers a stealth-focused web automation system using **Dolphin An
 - 2Captcha, CapMonster
 - Browser Fingerprinting Libraries
 
+## Use Cases
+- Web scraping behind login walls
+- Managing affiliate, eCommerce, or review accounts across platforms
+- Form submission bots with stealth
+- Automated social media actions (like, comment, follow)
